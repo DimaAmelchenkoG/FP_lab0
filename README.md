@@ -19,5 +19,5 @@
 - Erlang Programming: A Concurrent Approach to Software Development
 - Ф. Чезарини, С. Томпсон. «Программирование в Erlang»
 - “Изучай Erlang во имя добра!” - Фред Хеберт
-- - https://habr.com/ru/companies/otus/articles/791312/
+- https://habr.com/ru/companies/otus/articles/791312/
 - https://habr.com/ru/articles/235719/
